@@ -15,6 +15,7 @@ openpyxl = "*"
 chardet = "==3.0.4"
 django-heroku = "*"
 gunicorn = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.6"
